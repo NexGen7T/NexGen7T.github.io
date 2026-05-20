@@ -17,7 +17,7 @@ sections:
 
         <p>Recordings from first NexGen 7T Workshop can be viewed on YouTube</p>
 
-        <p>{{< youtubepl id="PLEZEA4OebId2YitP-0UqMhOmXQICLBgWT" >}}</p>
+        
         </div>
 
 ---
