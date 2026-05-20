@@ -17,7 +17,7 @@ sections:
 
         <p>For updates on the NexGen 7T and the associated U24 Dissemination Project, please sign up to the NexGen 7T Mailing List by emailing <a href="mailto:nexgen7t+subscribe@lists.berkeley.edu">nexgen7t+subscribe@lists.berkeley.edu</a>.</p>
 
-        <p>If you have any questions please do not hesitate to reach out at <a href="mailto:nexgen7T@berkeley.edu">nexgen7T@berkeley.edu</a>.</p>
+        <p>{{< youtubepl id="PLEZEA4OebId2YitP-0UqMhOmXQICLBgWT" >}}</p>
         </div>
 
 ---
