@@ -10,13 +10,13 @@ main:
     weight: 20
   - name: Workshop
     url: workshop/
-  #  weight: 30
+    weight: 30
   #- name: Showcase
   #  url: showcase/
   #  weight: 40
-  - name: Apply
-    url: apply/
-    weight: 50
+  #- name: Apply
+  #  url: apply/
+  #  weight: 50
 
 sidebar:
   - identifier: more
