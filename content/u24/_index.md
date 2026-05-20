@@ -2,8 +2,8 @@
 title: U24 Dissemination Project
 type: landing
 
-sections:
-    - block: markdown
+sections:  
+  - block: markdown
     id: dissemination-info
     content:
       title: ''
