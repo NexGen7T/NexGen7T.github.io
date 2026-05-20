@@ -3,6 +3,7 @@ title: Workshop
 toc: true
 reading_time: false
 pager: false
+---
 
 sections:  
   - block: markdown
@@ -20,6 +21,7 @@ sections:
         
         </div>
 
----
+<p>{{< youtubepl id="PLEZEA4OebId2YitP-0UqMhOmXQICLBgWT" >}}</p>
+
 
 
