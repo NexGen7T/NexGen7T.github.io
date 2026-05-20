@@ -5,15 +5,15 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Documentation
-    url: docs/
-    weight: 20
-  - name: Blog
-    url: blog/
-    weight: 30
-  - name: Showcase
-    url: showcase/
-    weight: 40
+  #- name: Documentation
+  #  url: docs/
+  #  weight: 20
+  #- name: Blog
+  #  url: blog/
+  #  weight: 30
+  #- name: Showcase
+  #  url: showcase/
+  #  weight: 40
   - name: Apply
     url: apply/
     weight: 50
