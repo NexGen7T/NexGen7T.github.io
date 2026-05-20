@@ -1,36 +1,36 @@
 ---
-title: Community
+title: Apply
 toc: true
 reading_time: false
 pager: false
 ---
 
-## Support
+# Support
 
-Get support fast. Hugo Blox has the largest Hugo community on Discord, consisting of thousands of creators, developers, and startups.
+# Get support fast. Hugo Blox has the largest Hugo community on Discord, consisting of thousands of creators, developers, and startups.
 
-## Docs
+# Docs
 
-- View the [Hugo Blox Documentation](https://docs.hugoblox.com/)
+#- View the [Hugo Blox Documentation](https://docs.hugoblox.com/)
 
-## Live Chat {#chat}
+# Live Chat {#chat}
 
-- Join the [Hugo Blox Online Chat](https://discord.gg/z8wNYzb)
+#- Join the [Hugo Blox Online Chat](https://discord.gg/z8wNYzb)
   - _#using-hugo-blox_ for user help
   - _#contributors_ for contributing help
 
-## Feature requests {#feature-requests}
+# Feature requests {#feature-requests}
 
-For new feature requests, create a post on our [GitHub Issues](https://github.com/HugoBlox/kit/issues). You can also upvote existing feature requests with a 👍
+#For new feature requests, create a post on our [GitHub Issues](https://github.com/HugoBlox/kit/issues). You can also upvote existing feature requests with a 👍
 
-## News {#news}
+# News {#news}
 
-Follow us so you are the first to know when new features and templates are launched:
+#Follow us so you are the first to know when new features and templates are launched:
 
-- [Subscribe to the _#announcement_ channel on Discord](https://discord.gg/z8wNYzb)
-- [Follow us on Twitter](https://x.com/GoOwnable)
-- [Subscribe to the Hugo Blox blog](https://hugoblox.com/blog/)
+#- [Subscribe to the _#announcement_ channel on Discord](https://discord.gg/z8wNYzb)
+#- [Follow us on Twitter](https://x.com/GoOwnable)
+#- [Subscribe to the Hugo Blox blog](https://hugoblox.com/blog/)
 
-## Further Resources
+# Further Resources
 
-- [Hugo Forums](https://discourse.gohugo.io/) for help installing Hugo and resolving Hugo error messages
+#- [Hugo Forums](https://discourse.gohugo.io/) for help installing Hugo and resolving Hugo error messages
