@@ -108,13 +108,13 @@ hugoblox:
     language_switcher: true
     # Custom footer text (HTML supported)
     text: ""
-    copyright:
-    notice: '© {year} David Feinberg and the Regents of the University of California.'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    #copyright:
+    #notice: '© {year} David Feinberg and the Regents of the University of California.'
+    #license:
+      #enable: false
+      #allow_derivatives: false
+      #share_alike: true
+      #allow_commercial: false
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
@@ -122,9 +122,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: '© {year} David Feinberg and the Regents of the University of California.'
     license:
-      type: cc # cc | custom
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
