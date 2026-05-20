@@ -2,14 +2,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: NexGen 7T
     url: /
     weight: 10
   - name: U24
     url: u24/
     weight: 20
-  #- name: Blog
-  #  url: blog/
+  - name: Workshop
+    url: workshop/
   #  weight: 30
   #- name: Showcase
   #  url: showcase/
