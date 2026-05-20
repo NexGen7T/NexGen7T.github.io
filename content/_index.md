@@ -11,7 +11,6 @@ sections:
       title: ''
       subtitle: ''
       text: |
-
           <p>The NexGen 7 Tesla scanner has been developed at Berkeley in collaboration with Siemens and MR CoilTech LTD to improve the spatial resolution of MRI. The scanner was designed for ultra-high resolution (mesoscale) human brain research at up to 10 times more detail than current 7T scanners and over 50 times more detail than current 3T scanners. The scanner is described in a paper published in <a href="https://doi.org/10.1038/s41592-023-02068-7">Nature Methods</a>, December 2023, showing technical details and examples of the scanner dramatically improving resolution in functional MRI (fMRI) by achieving 0.4 millimeter resolution compared to the 2 - 3 millimeters typical of today's standard 3T scanners.</p>
         </div>
 
