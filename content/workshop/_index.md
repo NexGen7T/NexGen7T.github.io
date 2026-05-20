@@ -16,5 +16,7 @@ Recordings from first NexGen 7T Workshop can be viewed on YouTube
 
 {{< youtubepl id="PL6umEw2Kdr-gqSSv0S5jl5u5xUOuNd_uT" >}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Ng2B_GFbuYuPAj-5&amp;list=PL6umEw2Kdr-gqSSv0S5jl5u5xUOuNd_uT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
